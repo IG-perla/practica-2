@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Presentación de Perla</title>
+</head>
+<body>
+    <h1>Presentación Personal</h1>
+
+    <p>¡Hola! Mi nombre es <strong>Perla</strong> (aunque en mi casa me dicen <em>"Perlita"</em> :3). Soy alguien que disfruta mucho del cine, especialmente de las películas que dejan un mensaje profundo. Tengo la costumbre de volver a ver muchas veces las historias que me marcan.</p>
+
+    <h3>Mi Top 3 de Películas</h3>
+    <ol>
+        <li><strong>Fight Club</strong></li>
+        <li><strong>The Hobbit / The Lord Of The Rings</strong></li>
+        <li><strong>Thirteen</strong></li>
+    </ol>
+
+    <h3>Gustos Musicales</h3>
+    <p>Escucho principalmente pop alternativo, indie, metal y grunge. No me gusta mucho encasillar lo que escucho en géneros específicos ni usar etiquetas, simplemente disfruto de los artistas que me transmiten algo.</p>
+    
+    <p>Algunos de mis favoritos son:</p>
+    <ul>
+        <li>HIM</li>
+        <li>Hole</li>
+        <li>Melanie Martinez</li>
+    </ul>
+
+</body>
+</html>
+<!-- Para esta práctica le pedí a la IA -Gemini AI- que haga una versión alternativa de la presentación que hice yo, tomando como base lo que yo misma escribí. Creo, además, que estuvo bastante bien porque me gustó como lo redactó, aunque algunas otras cosas no... pero la use para eso más que nada. -->
